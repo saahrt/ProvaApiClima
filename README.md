@@ -1,6 +1,6 @@
 # WeatherNow — Portal de Clima
 
-Este é um mini portal de previsão do tempo desenvolvido com **Next.js 14** (App Router) e **TypeScript** para a prova prática da disciplina de Programação e Design para Web II na FAETERJ.
+Este é um mini portal de previsão do tempo desenvolvido com **Next.js 14** (App Router) e **TypeScript** para a prova prática da disciplina de Progamação Mobile na FAETERJ.
 
 ## Funcionalidades
 
@@ -46,4 +46,4 @@ Acesse [http://localhost:3000](http://localhost:3000) no seu navegador.
 
 ---
 **Desenvolvido por:** Raynna Sarah Basilio Almeida
-**Disciplina:** Programação e Design para Web II - FAETERJ
+**Disciplina:** Programação para Dispositivos Móveis - FAETERJ
